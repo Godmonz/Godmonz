@@ -19,7 +19,7 @@
 <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="java" width="45" height="45"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Godmonz&show_icons=true&theme=radical)
 
 <!--
 **Godmonz/Godmonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
