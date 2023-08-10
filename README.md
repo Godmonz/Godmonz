@@ -6,7 +6,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 <a href="">
-  <img height="50" src="https://www.iconfinder.com/icons/5365678/fb_facebook_facebook_logo_icon">
+  <img height="50" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png">
 </a>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
