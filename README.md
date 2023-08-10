@@ -19,6 +19,8 @@
 <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="java" width="45" height="45"/>
 </p>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Godmonz/Godmonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
