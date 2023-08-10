@@ -14,7 +14,7 @@
 <a href="https://www.twitch.tv/godmonz">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/28-twitch-512.png">
 </a>
-https://spotify-github-profile.vercel.app/api/view?uid=212r37wsmsljpwecfyocfb5oq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=212r37wsmsljpwecfyocfb5oq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/Godmonz/spotify-github-profile)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
